@@ -1,2 +1,2 @@
 # CVPR
-This is my cpvr coures project and assigment and project repo.
+This is my cvpr coures project and assigment and project repo.
